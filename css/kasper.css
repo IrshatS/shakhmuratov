@@ -1033,6 +1033,9 @@ header nav .form i {
   width: fit-content;
   margin: 20px auto;
 }
+.footer .social-icons a {
+  text-decoration: none;
+}
 .footer .social-icons i {
   padding: 10px 15px;
 }
