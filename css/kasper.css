@@ -1036,6 +1036,9 @@ header nav .form i {
 .footer .social-icons i {
   padding: 10px 15px;
 }
+.footer .social-icons .fa-telegram {
+  color: #4995be;
+}
 .footer .copyright {
   margin-top: 60px;
 }
