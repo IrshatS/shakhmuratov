@@ -459,13 +459,14 @@ header nav .form i {
   height: 100%;
   background-color: rgba(0 0 0 / 60%);
 }
-.video video {
-  width: 50%;
-  margin-left: 25%;
-  margin-right: auto;
-}
+/* .video video { */
+
+  /* width: 50%; */
+  /* margin-left: 25%; */
+  /* margin-right: auto; */
+/* } */
 .video .text {
-  width: 100%;
+  width: 75%;
   position: absolute;
   top: 85%;
   transform: translateY(-50%);
