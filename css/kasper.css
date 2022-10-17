@@ -967,9 +967,13 @@ header nav .form i {
   font-weight: bold;
   font-size: 18px;
 }
+.contact .content .info a {
+  text-decoration: none;
+}
 .contact .content .info .phone{
   display: block;
   color: #777;
+  font-size: 1.5rem;
   margin-bottom: 10px;
 }
 .contact .content .info h4:nth-of-type(2) {
@@ -1043,8 +1047,13 @@ header nav .form i {
   color: #4995be;
 }
 .footer .social-icons .fa-whatsapp {
+
   color: #25D366;
 }
+.footer .social-icons .fa-home{
+  color: white;
+}
+
 .footer .copyright {
   margin-top: 60px;
 }
