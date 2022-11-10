@@ -115,11 +115,11 @@ header .container:after {
 header .logo {
   text-decoration: none;
 }
-header .logo i {
+header .logo svg {
   font-size: 25px;
   color: var(--main-color);
 }
-header .logo i + span {
+header .logo span {
   font-family: "Dancing Script", cursive;
   color: white;
   font-size: 25px;
@@ -299,7 +299,7 @@ header nav .form i {
 .services .srv-box {
   display: flex;
 }
-.services .srv-box i {
+.services .srv-box svg {
   margin-right: 50px;
 }
 @media (max-width: 767px) {
@@ -309,7 +309,7 @@ header nav .form i {
     text-align: center;
     margin-bottom: 40px;
   }
-  .services .srv-box i {
+  .services .srv-box svg {
     margin: 0 0 30px;
   }
 }
@@ -559,7 +559,7 @@ header nav .form i {
     flex-basis: 25%;
   }
 }
-.stats .container .box i {
+.stats .container .box svg {
   display: flex;
   background-color: black;
   margin: 0 auto 30px;
@@ -872,7 +872,7 @@ header nav .form i {
   max-width: 100%;
   position: relative;
 }
-.subscribe form i {
+.subscribe form svg {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
@@ -1021,11 +1021,11 @@ header nav .form i {
 .footer .logo {
   text-decoration: none;
 }
-.footer .logo i {
+.footer .logo svg {
   font-size: 25px;
   color: var(--main-color);
 }
-.footer .logo i + span {
+.footer .logo span {
   font-family: "Dancing Script", cursive;
   color: white;
   font-size: 25px;
@@ -1043,7 +1043,7 @@ header nav .form i {
 .footer .social-icons a {
   text-decoration: none;
 }
-.footer .social-icons i {
+.footer .social-icons svg {
   padding: 10px 15px;
 }
 .footer .social-icons .fa-telegram {
